@@ -2,7 +2,7 @@
 
 set -x
 
-ROOT_PACKAGE="github.com/Mathew/democrd"
+ROOT_PACKAGE="github.com/Mathew857/democrd"
 CUSTOM_RESOURCE_NAME="democrd"
 CUSTOM_RESOURCE_VERSION="v1"
 GO111MODULE=off
